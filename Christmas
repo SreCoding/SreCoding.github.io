@@ -1,0 +1,28 @@
+<!DOCTYPE  html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Christmas</title>
+    </head>
+    <style>
+        
+       body {
+             background-color: rgb(255, 0, 0);
+
+        }
+    </style>
+    <div class="header">
+        <h1> Christmas </h1>
+        </div>
+     <a href="https://cdn.britannica.com/38/196638-131-7BF02881/Santa-Claus.jpg">Picture</a>
+          <h2>What is Christmas?</h2>
+        <h3>Christmas is celebrated on December 25 and is both a sacred religious holiday and a worldwide cultural and commercial phenomenon. For two millennia, people around the world have been observing it with traditions and practices that are both religious and secular in nature. Christians celebrate Christmas Day as the anniversary of the birth of Jesus of Nazareth, a spiritual leader whose teachings form the basis of their religion. Popular customs include exchanging gifts, decorating Christmas trees, attending church, sharing meals with family and friends and, of course, waiting for Santa Claus to arrive. December 25—Christmas Day—has been a federal holiday in the United States since 1870.</h3>
+          
+          <h2>History of christmas </h2>
+          <h3>The middle of winter has long been a time of celebration around the world. Centuries before the arrival of the man called Jesus, early Europeans celebrated light and birth in the darkest days of winter. Many peoples rejoiced during the winter solstice, when the worst of the winter was behind them and they could look forward to longer days and extended hours of sunlight.In Scandinavia, the Norse celebrated Yule from December 21, the winter solstice, through January. In recognition of the return of the sun, fathers and sons would bring home large logs, which they would set on fire. The people would feast until the log burned out, which could take as many as 12 days. The Norse believed that each spark from the fire represented a new pig or calf that would be born during the coming year.</h3>
+          
+          <h2>Who invented Christmas?</h2>
+          <h3>The first recorded incidence of Christmas being celebrated actually dates all the way back to the Roman Empire in 336, during the time of the Roman Emperor Constantine – so technically the Romans invented it, although there's no specific person who is credited with having done so.</h3>
+    <a href="file:///home/chronos/u-f25e31cd73803ac67a155aabe889396802fa6901/MyFiles/Downloads/Christmas%20trees.html">Click to learn about Christmas Trees</a>
+          </body>
+          </html>
